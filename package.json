@@ -1,0 +1,23 @@
+{
+  "name": "view-compiler",
+  "version": "1.0.0",
+  "description": "Easy view-compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMagicKey/view-compiler.git"
+  },
+  "keywords": [
+    "view",
+    "render"
+  ],
+  "author": "iMagicKey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iMagicKey/view-compiler/issues"
+  },
+  "homepage": "https://github.com/iMagicKey/view-compiler#readme"
+}
