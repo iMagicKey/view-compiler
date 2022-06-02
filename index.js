@@ -50,7 +50,7 @@ class ViewCompiler {
         this.contents = this.particleFormat(this.contents)
 
         if (this.parentView) {
-            let compliler = new View()
+            let compliler = new ViewCompiler()
  
             this.contents = compliler.render(this.parentView, data, true)
 
